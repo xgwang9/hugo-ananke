@@ -1,4 +1,4 @@
-baseURL = "http://74.207.230.204/llrm/public_html/"
+baseURL = "llrm.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
