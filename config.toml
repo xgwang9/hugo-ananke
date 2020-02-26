@@ -1,0 +1,4 @@
+baseURL = "http://74.207.230.204/llrm/public_html/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
